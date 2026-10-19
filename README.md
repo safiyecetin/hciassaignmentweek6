@@ -6,7 +6,7 @@
 This is a single-page responsive portfolio website created for the HCI assignment. It showcases my profile, skills, and projects as a Computer Science student. The design features a clean, modern layout with a soft pastel (pink) color scheme. It is built using HTML and CSS only (no JavaScript).
 
 * URL Link to website design: [Click Here](https://canva.link/qockid2kx6xu4jz)
-* URL Link to website portfolio: [Click Here]()
+* URL Link to website portfolio: [Click Here](https://safiyecetin.github.io/hciassaignmentweek6/)
 
 ## 🎯 Purpose
 The goal of this project is to:
