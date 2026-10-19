@@ -60,8 +60,23 @@ Responsive design is achieved using media queries, relative units, and flexible 
     ├── index.html
     ├── style.css
     └── README.md
-<img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 20 38" src="https://github.com/user-attachments/assets/f9491f41-8c5f-499f-ae7a-1e5e5dbeea7a" />
+<img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 41 33" src="https://github.com/user-attachments/assets/ab2c7804-767b-4c9f-80ea-0bb087bc226e" />
+<img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 41 20" src="https://github.com/user-attachments/assets/d5cbcab8-6680-4ee7-94ee-f81b96c99777" />
 
-<img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 20 33" src="https://github.com/user-attachments/assets/b998048d-6533-4a17-b0cc-f35cd158a875" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
