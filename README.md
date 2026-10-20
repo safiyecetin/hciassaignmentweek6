@@ -57,9 +57,13 @@ Responsive design is achieved using media queries, relative units, and flexible 
 ## 📂 Folder Structure
 
     hci assignment/
+    ├── images/
     ├── index.html
     ├── style.css
     └── README.md
+## 📸 Screenshots & Pfotos 
+
+<img width="826" height="1280" alt="me" src="https://github.com/user-attachments/assets/e2426e3f-1299-45f7-9cd7-d009380c377b" />
 <img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 41 33" src="https://github.com/user-attachments/assets/ab2c7804-767b-4c9f-80ea-0bb087bc226e" />
 <img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 41 20" src="https://github.com/user-attachments/assets/d5cbcab8-6680-4ee7-94ee-f81b96c99777" />
 
