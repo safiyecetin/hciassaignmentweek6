@@ -72,4 +72,47 @@
        <p>&copy; 2026 Safiye Çetin. All rights reserved.</p>
    </footer>
 </body>
+
+<div class="chat-widget">
+    <div class="chat-window" id="chatWindow">
+        <div class="chat-header">
+            <div>
+                <h3>Let's chat! 💗</h3>
+                <span>I'm happy to help</span>
+            </div>
+            <button class="chat-close" onclick="toggleChat()">×</button>
+        </div>
+
+        <div class="chat-messages">
+            <div class="chat-bubble bot-message">
+                Hi there! 👋 Welcome to my portfolio.
+            </div>
+
+            <div class="chat-bubble bot-message">
+                Feel free to explore my work. Have any questions?
+            </div>
+        </div>
+
+        <div class="chat-input">
+            <input type="text" placeholder="Type a message..." disabled>
+            <button disabled>➤</button>
+        </div>
+    </div>
+
+    <button class="chat-toggle" onclick="toggleChat()" aria-label="Open support chat">
+        <span id="chatIcon">☏</span>
+    </button>
+</div>
+
+<script>
+       function toggleChat() {
+        const chat = document.getElementById("chatWindow");
+        const icon = document.getElementById("chatIcon");
+
+        chat.classList.toggle("chat-open");
+        icon.textContent = chat.classList.contains("chat-open") ? "×" : "☏";
+    }
+</script>
+</body>
+
 </html>
