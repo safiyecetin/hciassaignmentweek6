@@ -60,12 +60,21 @@ Responsive design is achieved using media queries, relative units, and flexible 
     ├── README.md
     ├── index.html
     ├── me.jpeg
+    ├── style.js
     └── style.css
 ## 📸 Screenshots & Photos 
 
 <img width="826" height="1280" alt="me" src="https://github.com/user-attachments/assets/e2426e3f-1299-45f7-9cd7-d009380c377b" />
+
+## First type
 <img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 41 33" src="https://github.com/user-attachments/assets/ab2c7804-767b-4c9f-80ea-0bb087bc226e" />
 <img width="1440" height="900" alt="Screenshot 2026-10-19 at 09 41 20" src="https://github.com/user-attachments/assets/d5cbcab8-6680-4ee7-94ee-f81b96c99777" />
+
+## Second type
+<img width="1440" height="900" alt="Screenshot 2026-11-16 at 11 04 36" src="https://github.com/user-attachments/assets/63be7e8e-0f31-4389-ae29-6226121c15c8" />
+<img width="1440" height="900" alt="Screenshot 2026-11-16 at 11 04 26" src="https://github.com/user-attachments/assets/9fa79779-cb95-4c54-a1b8-5a80daed87b8" />
+<img width="1440" height="900" alt="Screenshot 2026-11-16 at 11 04 16" src="https://github.com/user-attachments/assets/aec2cb39-b61e-49f8-98be-3a1548566a91" />
+<img width="1440" height="900" alt="Screenshot 2026-11-16 at 11 04 03" src="https://github.com/user-attachments/assets/0ef444b6-d580-4de3-802d-86720523a1fc" />
 
 
 
